@@ -2,7 +2,7 @@ from bot import config_dict
 
 def make_theme():
     if config_dict['THEME_ENABLED']:
-        return {'Upload': '📤 Upload',
+        return {'Upload': '🚀 Upload',
                 'Download': '📥 Download',
                 'Clone': '♻️ Clone',
                 'QueueDl': '💤 QueueDl',
